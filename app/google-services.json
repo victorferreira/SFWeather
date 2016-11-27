@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "280841150227",
+    "firebase_url": "https://sfweather-eb10e.firebaseio.com",
+    "project_id": "sfweather-eb10e",
+    "storage_bucket": "sfweather-eb10e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280841150227:android:52f0536b3edf86c0",
+        "android_client_info": {
+          "package_name": "com.example.victorferreira.sfweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280841150227-tfrdudqhco6u7e5cain95fdun33846ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.victorferreira.sfweather",
+            "certificate_hash": "F07E47F362BD5C416000E0D6B6B1748733482E59"
+          }
+        },
+        {
+          "client_id": "280841150227-534crc36i4irgjl0bhjpfdc9u24u9ib9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvi9Lnf6OJlNIS9LtEVNlgJ4L7s4XwX0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280841150227-m8ornsmll5v26g3hh6pii4uv1okgtmsq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.victorferreira.sfweather"
+              }
+            },
+            {
+              "client_id": "280841150227-534crc36i4irgjl0bhjpfdc9u24u9ib9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
